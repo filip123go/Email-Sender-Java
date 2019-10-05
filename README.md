@@ -15,7 +15,7 @@ There is a post request which recieves a json . The json should have the bellow 
 "emailBody":"This is the body"
 }
 
-A scheduler will be added in the code in the future.
+A scheduler for the emails will be added in the future.
 
 
 Technologies: Swagger, Maven, SpringBoot, javax.mail, json
