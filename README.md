@@ -2,7 +2,7 @@
 An Email sender for sending an Email from a single Sender to multiple Recipients.
 
 Clone or download and run. For the program to work the right configuration must be done. 
-In the  EmailPropertiesConfiguration.class the variables : emailFrom , password and emailRecipients should be setted up correctly.
+In the  application.properties : ca.email.from , ca.password.from and ca.mail.smtp.recipient.1 (if you want more recipients you have to add them in emailRecipients ArrayList and add the names in application.properties) should be setted up correctly.
 Also Less secure apps must be enabled to the sender's account. Here more info: https://support.google.com/cloudidentity/answer/6260879?hl=en
 
 The program is configured to work with a gmail as  a sender's email (The recipients can be emails from any provider).
