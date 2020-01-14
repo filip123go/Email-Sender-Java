@@ -7,7 +7,7 @@ create table conf.users
     last_name              varchar(255) null,
     username               varchar(255) null,
     password               varchar(255) null,
-    enabled               varchar(255) null
+    enabled               int null
 )
     engine = MyISAM;
 
