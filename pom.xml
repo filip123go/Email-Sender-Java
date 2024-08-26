@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
-        <springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
+        <springfox-swagger-ui.version>2.10.0</springfox-swagger-ui.version>
         <springfox-bean-validators.version>2.9.2</springfox-bean-validators.version>
         <commons-codec.version>1.11</commons-codec.version>
     </properties>
